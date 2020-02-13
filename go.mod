@@ -1,3 +1,3 @@
-module rdr
+module github.com/jdoucette-f5/local-go-mod-rdr
 
-require()
+go 1.13
